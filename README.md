@@ -22,9 +22,9 @@ Database Name: bbudget
 
 Table name & description:
 
-audit - The audit table adds a new record for every add,login, delete, and modify action (only Login is currently working). 
+<strong>audit</strong> - The audit table adds a new record for every add,login, delete, and modify action (only Login is currently working). 
         It's capturing the username, ip, a timestamp an action (login, delete, modify,add) and summary description
-        Every login, delete, add or modify action needs to be captured
+        Every login, delete, add or modify action needs to be captured<br>
 
 <strong>bbudget_ex</strong> - Table for capturing expenses<br>
 <strong>bbudget_in</strong>  - table for capturing offerings<br>
