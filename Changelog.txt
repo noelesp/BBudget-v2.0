@@ -1,5 +1,7 @@
 9/24/2013 - Changeg Log
 
-9/22/2013 - Added 'action' and 'summary' fields to 'audit' table. Updated 'Session' class field and renamed 'AuditUser' function to 'AuditUserEvent'
-            Modified 'AuditUserEvent' to only take two set of strings: action and summary via an array
+9/22/2013 - Added 'action' and 'summary' fields to 'audit' table. 
+            Updated 'Session' class field and renamed 'AuditUser' function to 'AuditUserEvent'
+            Modified 'AuditUserEvent' to only take two set of strings: action and summary via an array.
+            Added 'Login' event at every successful login
 
