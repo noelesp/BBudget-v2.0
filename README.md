@@ -26,14 +26,14 @@ audit - The audit table adds a new record for every add,login, delete, and modif
         It's capturing the username, ip, a timestamp an action (login, delete, modify,add) and summary description
         Every login, delete, add or modify action needs to be captured
 
-bbudget_ex - Table for capturing expenses
-bbudget_in  - table for capturing offerings
-bbudget_type - Table for adding different categories for offerings/expenses
-person - address book table 
-users - users table(BBudget administrators)
+<strong>bbudget_ex</strong> - Table for capturing expenses<br>
+<strong>bbudget_in</strong>  - table for capturing offerings<br>
+<strong>bbudget_type</strong> - Table for adding different categories for offerings/expenses<br>
+<strong>person</strong> - address book table <br>
+<strong>users</strong> - users table(BBudget administrators)<br>
 
-church_attendance - table for capturing church's total members attendance for a given date
-ed_attendance - table for capturing member's attendance for sunday school
-ed_classes - table for adding or removing classes for sunday school
-ed_registry - table for students
-ed_teachers - table for teachers (teachers are assigned to a class)
+<strong>church_attendance</strong> - table for capturing church's total members attendance for a given date<br>
+<strong>ed_attendance</strong> - table for capturing member's attendance for sunday school<br>
+<strong>ed_classes</strong> - table for adding or removing classes for sunday school<br>
+<strong>ed_registry</strong> - table for students<br>
+<strong>ed_teachers</strong> - table for teachers (teachers are assigned to a class)<br>
