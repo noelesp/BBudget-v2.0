@@ -5,4 +5,5 @@
 3) Multi-language support. As of now, field labels are hardcoded <br>
 4) Create a Database Admin page to set database, username, passwords and other misc database operations (drop, update, etc)<br>
 5) Complete auditing to log delete, add, modify actions
+6) Create User Permissions page to assign roles and permissions
 
