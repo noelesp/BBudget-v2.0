@@ -15,7 +15,7 @@ Screenshots can be found <a href="https://github.com/noelesp/BBudget-v2.0/wiki/S
 
 The code is quick'n'dirty and crude. It's definitely not up to best practices and could use some clean up!
 
-Languages Used: PHP, MySQL, JavaScript, HTML, Linux
+Technologies Used: PHP, MySQL, JavaScript, HTML, Linux
 
 
 The <strong>bbudget.sql</strong> file contains the empty database and tables<br>The default username and password is <strong>admin</strong>
